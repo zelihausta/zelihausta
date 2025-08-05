@@ -55,7 +55,10 @@
 ### 📊 GitHub Stats
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=zelihausta&show_icons=true&theme=tokyonight" width="47%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zelihausta&layout=compact&theme=tokyonight" width="47%" />
+  <a href="https://www.linkedin.com/in/zeliha-usta/" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-181717?style=flat-square&logo=linkedin" />
+  </a>
+  <a href="https://medium.com/@zelisstx7" target="_blank">
+    <img src="https://img.shields.io/badge/-Medium-181717?style=flat-square&logo=medium" />
+  </a>
 </p>
-
