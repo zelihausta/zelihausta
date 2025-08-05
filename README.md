@@ -52,13 +52,3 @@
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="left">
-  <a href="https://www.linkedin.com/in/zeliha-usta/" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-181717?style=flat-square&logo=linkedin" />
-  </a>
-  <a href="https://medium.com/@zelisstx7" target="_blank">
-    <img src="https://img.shields.io/badge/-Medium-181717?style=flat-square&logo=medium" />
-  </a>
-</p>
